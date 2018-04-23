@@ -41,7 +41,7 @@
 								</goals>
 									<configuration>
 											<tasks>
-												<echo>====================>>>>>>>>>>validate phase</echo>
+												<echo>=================>>>>>>>>>>validate phase</echo>
 											</tasks>
 									</configuration>
 					</execution>
